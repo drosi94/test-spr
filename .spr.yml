@@ -1,0 +1,13 @@
+githubRepoOwner: drosi94
+githubRepoName: test-spr
+githubHost: github.com
+githubRemote: origin
+githubBranch: main
+requireChecks: true
+requireApproval: true
+branchNameIncludeTarget: true
+showPrTitlesInStack: true
+mergeMethod: rebase
+mergeQueue: false
+forceFetchTags: false
+branchPushIndividually: false
