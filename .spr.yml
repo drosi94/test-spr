@@ -4,9 +4,9 @@ githubHost: github.com
 githubRemote: origin
 githubBranch: main
 requireChecks: true
-requireApproval: true
+requireApproval: false
 branchNameIncludeTarget: true
-showPrTitlesInStack: true
+showPrTitlesInStack: false
 mergeMethod: rebase
 mergeQueue: false
 forceFetchTags: false
